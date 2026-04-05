@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Sneha+K+%F0%9F%91%8B;AI+%7C+Cloud+%7C+DevOps+Engineer+%F0%9F%9A%80;Cyber+Security+%7C+Network+Security+%F0%9F%94%90;Data+Pipeline+Engineer+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Sneha+K+%F0%9F%91%8B;AI+%7C+Cloud+%7C+DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Azure+%7C+Google+Cloud+%E2%98%81%EF%B8%8F;Cyber+Security+%7C+Network+Security+%F0%9F%94%90;Data+Pipeline+Engineer+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🔥 About Me
 
 - 🤖 Building intelligent **AI Agents** and **LLM-powered applications**
-- ☁️ Specializing in **Azure, Kubernetes, Docker, Terraform** cloud deployments
+- ☁️ Specializing in **AWS, Azure, Google Cloud, Kubernetes, Docker, Terraform** cloud deployments
 - 🔐 Experienced in **Cyber Security** & **Network Security** — securing infrastructure end-to-end
 - 📊 Designing robust **Data Pipelines** for real-time and batch processing
 - 🛡️ Passionate about **Zero Trust Architecture** and **DevSecOps** practices
@@ -29,18 +29,27 @@
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,github,githubactions,linux,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,github,githubactions,linux,bash&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 ### 🔐 Cyber Security & Networking
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash&perline=8" />
-  <br/>
   <img src="https://img.shields.io/badge/Network_Security-005C99?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Zero_Trust-6A0DAD?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/WAF_%26_Firewall-FF6600?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM_%26_SOC-1A1A2E?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP_Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ### 📊 Data Pipeline & AI
@@ -48,10 +57,14 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda&perline=8" />
   <br/>
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
 </p>
 
 ### 💻 Languages & Frameworks

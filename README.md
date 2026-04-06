@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hey, I'm Sneha K!
+# 👋 Hey, I'm Sneha!
 
 🚀 AI | Cloud | DevOps | Cyber Security | Data Pipeline Engineer  
 🔐 Mission: Build Secure, Scalable & Intelligent Systems  
